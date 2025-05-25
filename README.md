@@ -24,19 +24,19 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Harsh Vikas Singh</h1>
+<h1 align="center">Hi there 👋, I'm Harsh Vikas Singh</h1>
 
 ###
 
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-🚀 Software Developer Engineer Intern @ Kickdrum <br>
-🎓 Final-year CSE undergrad at IIIT Agartala<br>
-💻 Full-stack + Cloud enthusiast | DevOps practitioner<br>
-🌱 Learning Rust, Kubernetes, and distributed systems<br>
-🏆 Knight on LeetCode (Top 5% globally)<br>
-📬 Email: <a href="mailto:vikassingh15j2002@gmail.com">vikassingh15j2002@gmail.com</a>
+🚀 I'm a Software Developer Engineer Intern at Kickdrum, experienced in full-stack development, DevOps, and cloud infrastructure.<br>
+🎓 B.Tech CSE student at IIIT Agartala (2021–2025)<br>
+🛠️ Passionate about building scalable systems and engaging user experiences.<br>
+🌱 Currently learning Rust and Kubernetes internals.<br>
+🎯 Knight on LeetCode (Top 5%, 1878 rating), 800+ DSA problems solved.<br>
+📬 Contact me: <a href="mailto:vikassingh15j2002@gmail.com">vikassingh15j2002@gmail.com</a>
 </p>
 
 ###
@@ -44,58 +44,37 @@
 <h3 align="left">🛠 Languages & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
 </div>
 
 ###
 
-<h3 align="left">📈 GitHub Stats</h3>
+<h3 align="left">📈 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sparky1507&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparky1507&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=sparky1507&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sparky1507&show_icons=true&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparky1507&layout=compact&theme=dark&hide_border=false" height="180" />
 </div>
 
 ###
 
-<h3 align="left">🚀 Featured Projects</h3>
+<h3 align="left">📚 Featured Projects</h3>
 
-- 🛰️ [ASMANI SANDESH](https://github.com/sparky1507/ASMANI-SANDESH): Kotlin weather app with Material UI & real-time forecast
-- 🏋️‍♂️ [7MIN-WORKOUT-APP](https://github.com/sparky1507/7MIN-WORKOUT-APP): Guided workouts with timers and BMI calculator
-- 🛒 [Scrape Track (Research)](https://drive.google.com/file/d/1C0rTyt9JutV5sKDVbXHlVYDIK8E8R9Aj/view?usp=sharing): E-Commerce price tracker published in Journal of Technology
+- 🛰️ [ASMANI SANDESH](https://github.com/sparky1507/ASMANI-SANDESH): Real-time Kotlin weather app with Material UI & API integration
+- 🏋️‍♂️ [7MIN-WORKOUT-APP](https://github.com/sparky1507/7MIN-WORKOUT-APP): Guided fitness sessions, BMI calculator & Room DB
+- 🛒 [Scrape Track (Research)](https://drive.google.com/file/d/1C0rTyt9JutV5sKDVbXHlVYDIK8E8R9Aj/view?usp=sharing): E-Commerce tracker published in Journal of Technology
 
-###
-
-<h3 align="left">📲 Social Media</h3>
-
-<div align="left">
-  <a href="https://www.youtube.com">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:vikassingh15j2002@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sparky1507/sparky1507/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+---
 
