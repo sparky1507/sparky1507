@@ -1,101 +1,114 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
 </div>
 
-###
-
 <div align="center">
-  <a href="https://linkedin.com/in/harshsingh1507">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <a href="https://www.linkedin.com/in/harshsingh1507">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://twitter.com/sparky1507">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <a href="https://x.com/sparky1507">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://github.com/sparky1507">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sparky1507.sparky1507&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sparky1507.sparky1507"/>
 </div>
-
-###
-
-
-## <div align="center">Hi, I'm Harsh Vikas Singh — Software Developer & Tech Explorer 👨‍💻</div>
-
-🎓 B.Tech in CSE @ IIIT Agartala (2021–2025)  
-💼 SDE Intern @ Kickdrum | Ex-Application Engineer @ Mech-Help  
-📌 Exploring: **Cloud Infra**, **Spring Boot**, **Scalable Systems**
-
-🔭 I’m currently deep diving into **AWS**  
-📚 Passionate about **DSA**, **Android Dev**, and **Distributed Systems**  
-💬 Ask me about **Java**, **Kotlin**, **Android**, or **Spring Boot**
-
-💻 Reach out: **vikassingh15j2002@gmail.com**
 
 ---
 
-# 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshsingh1507)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/sparky1507)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/sparky0007/)
-[![Publication](https://img.shields.io/badge/Research--Paper-blue.svg)](https://drive.google.com/file/d/1C0rTyt9JutV5sKDVbXHlVYDIK8E8R9Aj/view?usp=sharing)
+<h1 align="center">Hi 👋, I'm Harsh Vikas Singh</h1>
+
+<h3 align="center">
+Software Engineer | Backend Developer | Cloud & Scalable Systems Enthusiast
+</h3>
+
+🎓 B.Tech in Computer Science & Engineering @ IIIT Agartala (2021–2025)
+
+💼 Software Engineer 1 @ MAQ Software
+💼 Ex-SDE Intern @ Kickdrum
+💼 Ex-Application Engineer @ Mech-Help
+
+🔭 Currently working on **Spring Boot, Cloud Infrastructure & Scalable Systems**
+
+🌱 Learning **AWS + Azure Cloud + Distributed Systems**
+
+💬 Ask me about **Java, Spring Boot, Android, AWS, System Design**
+
+📫 Reach me at: **[vikassingh15j2002@gmail.com](mailto:vikassingh15j2002@gmail.com)**
+
+⚡ Fun fact: I enjoy solving DSA problems and building scalable applications.
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshsingh1507)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github\&logoColor=white)](https://github.com/sparky1507)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=white)](https://leetcode.com/sparky0007/)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef\&logoColor=white)](https://www.codechef.com/users/sparky69)
 
 ---
 
 # 💻 Tech Stack
 
-<div align="center">  
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring Boot" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-</div>
+**Languages:** Java | Kotlin | Python | C++ | JavaScript
+
+**Backend:** Spring Boot | REST APIs | Node.js
+
+**Cloud & DevOps:** AWS | Azure | EC2 | Lambda | S3 | CloudWatch | CI/CD | ARM Templates | Bicep
+
+**Databases:** PostgreSQL | MongoDB | DynamoDB | Firebase | AWS RDS
+
+**Tools:** Git | IntelliJ | VS Code | Android Studio
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Knight on **LeetCode** – Top 5% globally, rating **1878+**
-- 🧠 Solved **800+** DSA problems
-- 📄 Published: **“Scrape Track”** – A secured E-Commerce app for price tracking  
-  [View Publication →](https://drive.google.com/file/d/1C0rTyt9JutV5sKDVbXHlVYDIK8E8R9Aj/view?usp=sharing)
+🥇 Knight on LeetCode — Top 5% globally (**1878+ rating**)
+
+🧠 Solved **800+ DSA problems**
+
+⚡ Executed **50+ SQL optimization queries**
+
+👨‍🏫 Led Android + DSA initiatives for **100+ students**
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-### [ASMANI SANDESH 🌦](https://github.com/sparky1507/ASMANI-SANDESH)
-Real-time Kotlin weather app with Material Design and JSON API support.  
-⭐ 1,000+ users | ⚡ 30% faster load time | 📉 15% fewer crashes
+### ASMANI SANDESH 🌦
 
-### [Workout App 💪](https://github.com/sparky1507/7MIN-WORKOUT-APP)
-7-minute fitness app with visual timers, Room DB, and BMI calculator.  
-📈 500+ daily users | 🎯 25% user engagement boost
+Real-time Kotlin weather application with JSON APIs.
+
+⭐ 1000+ users
+⚡ 30% faster load time
+📉 Reduced crash rates by 15%
+
+### Workout App 💪
+
+7-minute fitness application with Room DB and BMI calculator.
+
+📈 500+ daily users
+🎯 Improved engagement by 25%
 
 ---
 
 # 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=sparky1507&theme=aura&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api?username=sparky1507&theme=aura&include_all_commits=true&hide_border=true&rank_icon=github" />
+<img src="https://streak-stats.demolab.com?user=sparky1507&theme=aura&hide_border=true"/>
 
-[![](https://visitcount.itsvg.in/api?id=sparky1507&icon=2&color=1)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api?username=sparky1507&theme=aura&include_all_commits=true&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparky1507&layout=compact&theme=aura&hide_border=true"/>
 
 ---
 
-> ⚡ *Fun fact: Monday is the most common sick day.*  
-> Thanks for stopping by! Let’s build something cool together 🚀
-
+<h3 align="center">Thanks for visiting 🚀</h3>
